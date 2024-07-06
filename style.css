@@ -1,0 +1,143 @@
+.vernagir {
+  font-family:  cursive;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: rgb(222,24,149);
+    width:"100%"
+}
+.vernagir2 {
+    font-style: normal;
+    font-family: Raleway;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    font-feature-settings: "pnum", "lnum";
+    color: rgb(51, 51, 51);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 65px;
+    width: 44em
+}
+
+.vernagir3{
+  position: relative;
+    border: 2px solid 
+     rgb(222,24,149);
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background: rgb(222,24,149);
+    border-radius: 8px;
+    width: 260px;
+    height: 50px;
+    color: rgb(555, 255, 255);
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    cursor: pointer;
+}
+.glxavorblock{
+background: #E9E9E9;
+  text-align:center;
+      height: calc(-230px + 100vh);
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+}
+
+.header-block {
+display: flex;
+justify-content: space-around;
+height:100px;
+align-items:center
+    
+}
+.Footer{
+ text-align:center
+}
+.vernagir4{
+font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: rgb(79, 105, 136);
+    width:"100%";
+  margin-bottom:0.5px
+ 
+}
+
+.glxavorblock{
+background: #E9E9E9;
+  text-align:center
+}
+
+.header-block {
+display: flex;
+justify-content: space-around;
+height:100px;
+align-items:center
+    
+}
+.Footer{
+ text-align:center
+}
+.vernagir4{
+font-family:  cursive
+  ;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: rgb(222,24,149);
+    width:"100%";
+  margin-bottom:0.5px
+ 
+}
+.vernagir5{
+  
+    
+    position: relative;
+    border: 2px solid rgb(222,24,149);
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 1px;
+    background: none;
+    border-radius: 8px;
+    width: 230px;
+    height: 50px;
+    color: rgb(222,24,149);
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    cursor: pointer;
+  
+}
+.vernagir5:hover{
+background:rgb(222,24,149);
+  color:white
+}
+.vernagir6 {
+  font-family:Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 47px;
+    color: rgb(222,24,149);
+  width:"100%"
+}
+ .vernagir3:hover{
+  background:rgb(237,43,189)
+  } 
+
